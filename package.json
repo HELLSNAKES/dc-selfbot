@@ -1,0 +1,27 @@
+{
+  "name": "dc-selfbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HELLSNAKES/dc-selfbot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "HELLSNAKE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HELLSNAKES/dc-selfbot/issues"
+  },
+  "homepage": "https://github.com/HELLSNAKES/dc-selfbot#readme"
+}
